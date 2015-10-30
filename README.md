@@ -1,5 +1,5 @@
 # homebrew-docker-machine
-Homebrew tap for v0.5.0-rc3 of docker-machine.
+Homebrew tap for v0.5.0-rc4 of docker-machine.
 
 Use with:
 
